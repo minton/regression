@@ -1,0 +1,52 @@
+#ignore precompiled header files for c++ video base
+/ipch
+#ignore thumbnails created by windows
+Thumbs.db
+#Ignore files build by Visual Studio
+*.obj
+*.exe
+*.dll
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+[Bb]in
+[Dd]ebug*/
+*.lib
+*.sbr
+obj/
+[Rr]elease*/
+*ReSharper*/
+*ReSharper*
+*dot[Cc]over*
+[Tt]est[Rr]esult*
+*.orig
+*.zip
+*.tmp
+*.swp
+*.*sdf
+# /
+/results.txt
+/release.txt
+/DeployResults
+
+# /Build/
+*.crunch*.local.xml
+/packages
+/Dotfuscated
+*.received.*
+_NCrunch_*
+*.testresult.xml
+*.config.xml
+*[Cc]overage*
