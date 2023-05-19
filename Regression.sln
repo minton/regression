@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regression", "Polynomial\Regression.csproj", "{A90CA99C-9A70-4C8D-878A-B3F005298058}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regression", "src\Regression\Regression.csproj", "{A90CA99C-9A70-4C8D-878A-B3F005298058}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regression.Sample", "src\Regression.Sample\Regression.Sample.csproj", "{A75043F8-CE84-4030-8ABB-28828B17BE51}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A90CA99C-9A70-4C8D-878A-B3F005298058}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A90CA99C-9A70-4C8D-878A-B3F005298058}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A90CA99C-9A70-4C8D-878A-B3F005298058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A75043F8-CE84-4030-8ABB-28828B17BE51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A75043F8-CE84-4030-8ABB-28828B17BE51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A75043F8-CE84-4030-8ABB-28828B17BE51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A75043F8-CE84-4030-8ABB-28828B17BE51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
