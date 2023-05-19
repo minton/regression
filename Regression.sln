@@ -9,18 +9,17 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regression.Sample", "src\Re
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A90CA99C-9A70-4C8D-878A-B3F005298058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A90CA99C-9A70-4C8D-878A-B3F005298058}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A90CA99C-9A70-4C8D-878A-B3F005298058}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A90CA99C-9A70-4C8D-878A-B3F005298058}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A75043F8-CE84-4030-8ABB-28828B17BE51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A75043F8-CE84-4030-8ABB-28828B17BE51}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A75043F8-CE84-4030-8ABB-28828B17BE51}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A75043F8-CE84-4030-8ABB-28828B17BE51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A90CA99C-9A70-4C8D-878A-B3F005298058}.Debug|x64.ActiveCfg = Debug|x64
+		{A90CA99C-9A70-4C8D-878A-B3F005298058}.Debug|x64.Build.0 = Debug|x64
+		{A90CA99C-9A70-4C8D-878A-B3F005298058}.Release|x64.ActiveCfg = Release|x64
+		{A90CA99C-9A70-4C8D-878A-B3F005298058}.Release|x64.Build.0 = Release|x64
+		{A75043F8-CE84-4030-8ABB-28828B17BE51}.Debug|x64.ActiveCfg = Debug|x64
+		{A75043F8-CE84-4030-8ABB-28828B17BE51}.Debug|x64.Build.0 = Debug|x64
+		{A75043F8-CE84-4030-8ABB-28828B17BE51}.Release|x64.ActiveCfg = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
